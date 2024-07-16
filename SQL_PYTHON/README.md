@@ -34,7 +34,5 @@ Assembling our insights into a story to provide actionable recommendations.
 - **SQL**: Utilized to manage and query data from MySQL Workbench.
 - **Python**: Employed for data processing and visualization.
 
-## Example Queries and Analysis
-### Cleaning Employee Data
-We ensured the employee emails and phone numbers were consistent and accurate:
+
 
